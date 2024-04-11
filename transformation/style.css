@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.box {
+    width: 250px;
+    height: 250px;
+    border: 6px solid;
+    text-align: center;
+    font-size: 13em;
+    transform: translateX(100px) rotateZ(45deg);
+}
+
+#box1{
+    background-color: aqua;
+}
+
+#box2{
+    background-color: lightgreen;
+}
+
+#box3{
+    background-color: red;
+}
